@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://github.com/psdansouza10-spec/arm-play-update/releases/latest/download/ARM-PLAY.apk",
   "obrigatoria": false,
   "mensagem": "Nova versão do ARM PLAY disponível."
